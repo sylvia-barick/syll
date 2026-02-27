@@ -1,0 +1,166 @@
+{
+  "faqs": [
+    {
+      "id": "1",
+      "question": "Who is Sylvia Barick?",
+      "answer": "Sylvia Barick is a passionate Geospatial Developer and Software Engineer based in Germany. Currently working at Camptocamp, she specializes in open-source geospatial technologies, web development, and building innovative mapping solutions. She combines deep technical expertise with spatial analysis and has a unique background bridging software engineering and geographic information systems.",
+      "suggestions": [
+        "What is Sylvia's current role and company?",
+        "What technologies does she work with?",
+        "What makes her unique as a developer?"
+      ]
+    },
+    {
+      "id": "2",
+      "question": "What is Sylvia's current role and company?",
+      "answer": "Sylvia is currently working as a Software Engineer at Camptocamp (October 2023 - Present) in Berlin, Germany (Hybrid). At Camptocamp, she works with QGIS, Geonetwork-UI, develops custom GIS dashboards, and contributes to QGIS plugins while diving deep into Docker, web GIS, and open-source geospatial technologies.",
+      "suggestions": [
+        "What notable projects has Sylvia worked on?",
+        "What is Sylvia's work experience?",
+        "What GIS software does she specialize in?"
+      ]
+    },
+    {
+      "id": "3",
+      "question": "What technologies and tools does Sylvia work with?",
+      "answer": "Sylvia's technical stack includes: **GIS Technologies:** ArcGIS, QGIS, OpenLayers, Leaflet, PostGIS, ArcGIS Enterprise. **Programming:** Python, JavaScript, TypeScript, HTML5, Angular. **Web Frameworks:** React, Next.js, Node.js. **Tools:** Docker, Git, Version Control. **Databases:** PostGIS, Non-relational databases. She specializes in bridging traditional GIS with modern web technologies.",
+      "suggestions": [
+        "What programming languages is she proficient in?",
+        "What is her experience with industry applications?",
+        "What services does Sylvia offer?"
+      ]
+    },
+    {
+      "id": "4",
+      "question": "What is Sylvia's educational background?",
+      "answer": "Sylvia holds an M.Sc. in Software Engineering for Industrial Applications from Hochschule Hof (2022-2024), focusing on Industry 4.0, applied cloud computing, IoT, and spatial technologies. She also completed an M.Sc. in Geoinformatics (2017-2019) in Pune, India, where she learned GIS, remote sensing, and spatial analysis, combining geography with programming skills.",
+      "suggestions": [
+        "What is her experience with industry applications?",
+        "What is Sylvia's work experience?",
+        "What makes her unique as a developer?"
+      ]
+    },
+    {
+      "id": "5",
+      "question": "What notable projects has Sylvia worked on?",
+      "answer": "**Key Projects:** 1) **Digipin** - A Next.js app using OpenLayers for DIGIPIN location search in India. 2) **QGIS Hub Plugin** - Developed at Camptocamp with Ismail Sunni, allowing QGIS users to browse and add resources from QGIS Hub. 3) **OpenLayers Benchmark** - Performance testing tool for WebGL vs Canvas rendering in OpenLayers, available at openlayers.org/bench. All projects showcase her expertise in geospatial web development and open-source contributions.",
+      "suggestions": [
+        "What technologies does she work with?",
+        "What is her approach to development?",
+        "How can I contact Sylvia?"
+      ]
+    },
+    {
+      "id": "6",
+      "question": "What is Sylvia's work experience?",
+      "answer": "**Career Timeline:** **Camptocamp (2023-Present):** Software Engineer working on open-source geospatial solutions. **Gistec (2019-2022):** GIS Developer in Hyderabad, creating custom geoprocessing tools and web mapping apps with Esri technologies. **University of Cologne (2019):** Student Intern applying GIS to hydrological modeling with ArcSWAT for water resources research.",
+      "suggestions": [
+        "What is Sylvia's current role and company?",
+        "What GIS software does she specialize in?",
+        "Is she available for freelance work?"
+      ]
+    },
+    {
+      "id": "7",
+      "question": "What makes Sylvia unique as a developer?",
+      "answer": "Sylvia's unique strength lies in combining software engineering expertise with deep geospatial knowledge. She bridges the gap between traditional GIS workflows and modern web development, creating innovative solutions that make spatial data accessible through elegant web interfaces. Her experience spans from desktop GIS applications to cloud-based web mapping solutions.",
+      "suggestions": [
+        "What services does Sylvia offer?",
+        "What is her approach to development?",
+        "What are her interests outside of work?"
+      ]
+    },
+    {
+      "id": "8",
+      "question": "What services does Sylvia offer?",
+      "answer": "Sylvia offers: **Geospatial Development:** Custom GIS applications, web mapping solutions, spatial data analysis. **Web Development:** Modern web applications using React/Next.js, responsive design with neobrutalism aesthetics. **Consulting:** GIS workflow optimization, spatial database design, open-source technology integration. **Technical Expertise:** QGIS plugin development, ArcGIS Enterprise solutions, data visualization.",
+      "suggestions": [
+        "Is she available for freelance work?",
+        "How can I contact Sylvia?",
+        "What makes her unique as a developer?"
+      ]
+    },
+    {
+      "id": "9",
+      "question": "How can I contact Sylvia?",
+      "answer": "You can contact Sylvia through: **Email:** hi@sylvia-barick.github.io **Contact Form:** Available on this website **Professional Networks:** GitHub (sylvia-barick), LinkedIn. He's always open to discussing new opportunities, collaborations, and interesting geospatial projects. Feel free to reach out for freelance work, consulting, or just to chat about maps and code!",
+      "suggestions": [
+        "Is she available for freelance work?",
+        "What services does Sylvia offer?",
+        "What notable projects has she worked on?"
+      ]
+    },
+    {
+      "id": "10",
+      "question": "What are Sylvia's interests outside of work?",
+      "answer": "Beyond coding and maps, Sylvia enjoys: **Dancing** - Expressing creativity through movement, **Chess** - Strategic thinking and problem-solving, **Formula 1** - Following the excitement of racing and engineering, **Harry Potter** - A proud Potterhead who appreciates the magical world. These diverse interests reflect her creative and analytical personality.",
+      "suggestions": [
+        "What is her approach to development?",
+        "Who is Sylvia Barick?",
+        "What makes her unique as a developer?"
+      ]
+    },
+    {
+      "id": "11",
+      "question": "Is Sylvia available for freelance or consulting work?",
+      "answer": "Yes! Sylvia is available for freelance projects and consulting work. Whether you need custom GIS solutions, web mapping applications, spatial data analysis, or modern web development, he's ready to help. Her experience with both enterprise and open-source technologies makes her versatile for various project scales and budgets.",
+      "suggestions": [
+        "What services does Sylvia offer?",
+        "How can I contact Sylvia?",
+        "What technologies does she work with?"
+      ]
+    },
+    {
+      "id": "12",
+      "question": "What is Sylvia's approach to development?",
+      "answer": "Sylvia believes in combining technical excellence with creative problem-solving. He's passionate about open-source technologies, clean code, and building solutions that make complex spatial data accessible to everyone. Her development philosophy focuses on bridging the gap between powerful GIS capabilities and user-friendly web interfaces.",
+      "suggestions": [
+        "What notable projects has she worked on?",
+        "What makes her unique as a developer?",
+        "What technologies does she work with?"
+      ]
+    },
+    {
+      "id": "13",
+      "question": "What programming languages is Sylvia proficient in?",
+      "answer": "Sylvia is proficient in: **Python** - Her go-to language for GIS automation, data analysis, and backend development (ArcPy, spatial libraries), **JavaScript/TypeScript** - For modern web development, interactive mapping, and frontend applications, **HTML5** - Semantic markup and web standards, **SQL** - Spatial databases and PostGIS queries. She focuses on languages that excel in both web development and geospatial analysis.",
+      "suggestions": [
+        "What GIS software does she specialize in?",
+        "What technologies does she work with?",
+        "What is her experience with industry applications?"
+      ]
+    },
+    {
+      "id": "14",
+      "question": "What GIS software and tools does Sylvia specialize in?",
+      "answer": "Sylvia specializes in: **Desktop GIS:** QGIS (plugin development), ArcGIS (geoprocessing, ArcPy), **Web Mapping:** OpenLayers, Leaflet, ArcGIS JavaScript API, **Spatial Databases:** PostGIS, ArcGIS Enterprise, **Development Tools:** Docker, Git, version control, **Cloud Platforms:** Applied cloud computing for geospatial solutions. Her expertise spans both proprietary and open-source geospatial ecosystems.",
+      "suggestions": [
+        "What notable projects has she worked on?",
+        "What is Sylvia's current role and company?",
+        "What programming languages is she proficient in?"
+      ]
+    },
+    {
+      "id": "15",
+      "question": "What is Sylvia's experience with industry applications?",
+      "answer": "Through her M.Sc. in Software Engineering for Industrial Applications, Sylvia gained expertise in **Industry 4.0** technologies, **IoT integration** with spatial data, **Applied cloud computing** for scalable GIS solutions, **Non-relational databases** for big spatial data, **Real-world industrial applications** of geospatial technology. This background allows her to create solutions that bridge digital transformation with spatial intelligence.",
+      "suggestions": [
+        "What is Sylvia's educational background?",
+        "What technologies does she work with?",
+        "What services does Sylvia offer?"
+      ]
+    }
+  ],
+  "context": "You are an AI assistant representing Sylvia Barick's portfolio website. You have comprehensive knowledge about Sylvia's professional background, education, work experience, technical skills, and projects. Provide accurate, detailed, and helpful responses about Sylvia's expertise in geospatial development, software engineering, and her unique combination of GIS and web development skills. Keep responses professional but friendly, and always stay focused on Sylvia's professional profile. If asked about unrelated topics, politely redirect to Sylvia's professional background.",
+  "personality": "Respond in a professional yet approachable tone that reflects Sylvia's passion for geospatial technology and software development. Highlight her unique expertise in bridging traditional GIS with modern web development. Use technical terms appropriately but explain them when needed. Show enthusiasm for open-source technologies and innovative spatial solutions.",
+  "expertise_areas": [
+    "Geospatial Development",
+    "Software Engineering",
+    "Web Development",
+    "GIS Technologies",
+    "Open Source Solutions",
+    "Spatial Data Analysis",
+    "Web Mapping",
+    "Industry 4.0 Applications"
+  ]
+}
