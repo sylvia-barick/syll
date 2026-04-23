@@ -14,16 +14,16 @@ export default function About() {
     {
       title: 'About Me',
       description:
-        "I'm currently working as a Geospatial Software Engineer at Camptocamp, where I specialize in geospatial software development.",
+        "I'm an AI/ML and Web3 Engineer passionate about building intelligent decentralized solutions and exploring the frontiers of technology.",
       imageSrc: Character1,
       imageAlt: 'Character1',
       bgColor: 'bg-white dark:bg-secondaryBlack',
       imagePosition: 'right' as const, // Use type assertion to specify literal type
     },
     {
-      title: 'Geospatial Development',
+      title: 'AI/ML & Web3',
       description:
-        'I thrive on continuously learning various geospatial technologies, from GIS software to spatial databases, to shape ideas into functional applications.',
+        'I thrive on continuously learning various technologies, from deep learning models to blockchain protocols, to shape ideas into functional applications.',
       imageSrc: Character2,
       imageAlt: 'Character2',
       bgColor: 'bg-white dark:bg-secondaryBlack',
